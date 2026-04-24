@@ -90,8 +90,3 @@
 
 <hr/>
 
-<div align="center">
-<a href="https://ko-fi.com/" target="_blank">
-<img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee"/>
-</a>
-</div> 
